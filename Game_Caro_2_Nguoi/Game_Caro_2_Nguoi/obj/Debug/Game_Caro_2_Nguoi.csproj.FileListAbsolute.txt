@@ -22,3 +22,12 @@ C:\Users\us\Desktop\Game caro\Game-Caro-2-ng-i-ch-i\Game_Caro_2_Nguoi\Game_Caro_
 C:\Users\us\Desktop\Game caro\Game-Caro-2-ng-i-ch-i\Game_Caro_2_Nguoi\Game_Caro_2_Nguoi\obj\Debug\Game_Caro_2_Nguoi.Form1.resources
 C:\Users\us\Desktop\Game caro\Game-Caro-2-ng-i-ch-i\Game_Caro_2_Nguoi\Game_Caro_2_Nguoi\obj\Debug\Game_Caro_2_Nguoi.Properties.Resources.resources
 C:\Users\us\Desktop\Game caro\Game-Caro-2-ng-i-ch-i\Game_Caro_2_Nguoi\Game_Caro_2_Nguoi\obj\Debug\Game_Caro_2_Nguoi.csproj.GenerateResource.Cache
+C:\Users\us\Desktop\Game\Game-caro\Game_Caro_2_Nguoi\Game_Caro_2_Nguoi\bin\Debug\Game_Caro_2_Nguoi.exe.config
+C:\Users\us\Desktop\Game\Game-caro\Game_Caro_2_Nguoi\Game_Caro_2_Nguoi\obj\Debug\Game_Caro_2_Nguoi.exe
+C:\Users\us\Desktop\Game\Game-caro\Game_Caro_2_Nguoi\Game_Caro_2_Nguoi\obj\Debug\Game_Caro_2_Nguoi.pdb
+C:\Users\us\Desktop\Game\Game-caro\Game_Caro_2_Nguoi\Game_Caro_2_Nguoi\bin\Debug\Game_Caro_2_Nguoi.exe
+C:\Users\us\Desktop\Game\Game-caro\Game_Caro_2_Nguoi\Game_Caro_2_Nguoi\bin\Debug\Game_Caro_2_Nguoi.pdb
+C:\Users\us\Desktop\Game\Game-caro\Game_Caro_2_Nguoi\Game_Caro_2_Nguoi\obj\Debug\Game_Caro_2_Nguoi.csprojResolveAssemblyReference.cache
+C:\Users\us\Desktop\Game\Game-caro\Game_Caro_2_Nguoi\Game_Caro_2_Nguoi\obj\Debug\Game_Caro_2_Nguoi.Form1.resources
+C:\Users\us\Desktop\Game\Game-caro\Game_Caro_2_Nguoi\Game_Caro_2_Nguoi\obj\Debug\Game_Caro_2_Nguoi.Properties.Resources.resources
+C:\Users\us\Desktop\Game\Game-caro\Game_Caro_2_Nguoi\Game_Caro_2_Nguoi\obj\Debug\Game_Caro_2_Nguoi.csproj.GenerateResource.Cache

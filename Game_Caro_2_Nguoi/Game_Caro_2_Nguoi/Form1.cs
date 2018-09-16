@@ -48,7 +48,7 @@ namespace Game_Caro_2_Nguoi
         void btn_Click(object sender, EventArgs e)
         {
             Button btn = sender as Button;
-            btn.BackgroundImage = Image.FromFile("C:\\Users\\us\\Desktop\\Game caro\\Game-Caro-2-ng-i-ch-i\\Game_Caro_2_Nguoi\\Game_Caro_2_Nguoi\\X.jpg");
+            btn.BackgroundImage = Image.FromFile("X.jpg");
         }
 
         private void Form1_Load(object sender, EventArgs e)
